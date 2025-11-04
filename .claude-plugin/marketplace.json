@@ -7,7 +7,7 @@
     "plugins": [
         {
             "name": "coding-skills",
-            "source": "./skills/coding",
+            "source": ".",
             "strict": false,
             "description": "Collection of coding-related skills",
             "skills": [
