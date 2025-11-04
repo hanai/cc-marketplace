@@ -1,0 +1,19 @@
+{
+    "name": "ihanai-marketplace",
+    "owner": {
+        "name": "Han",
+        "email": "ihanai1991@gmail.com"
+    },
+    "plugins": [
+        {
+            "name": "coding-skills",
+            "source": "./skills/coding",
+            "strict": false,
+            "description": "Collection of coding-related skills",
+            "skills": [
+                "./skills/coding/fundamental-coding-principles"
+            ],
+            "category": "development"
+        }
+    ]
+}
