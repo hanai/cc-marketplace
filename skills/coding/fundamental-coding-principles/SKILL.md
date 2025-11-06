@@ -1,6 +1,6 @@
 ---
 name: fundamental-coding-principles
-description: Use whenever the assistant is writing or refactoring code and must uphold SOLID, DRY, KISS, YAGNI, and SSOT principles.
+description: Proactively use this skill when starting any code writing or refactoring task and must uphold SOLID, DRY, KISS, YAGNI, and SSOT principles.
 ---
 
 # Fundamental Coding Principles
