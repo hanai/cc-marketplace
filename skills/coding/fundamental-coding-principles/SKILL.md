@@ -1,6 +1,6 @@
 ---
 name: fundamental-coding-principles
-description: Proactively use this skill when starting any code writing or refactoring task and must uphold SOLID, DRY, KISS, YAGNI, and SSOT principles.
+description: Apply SOLID, DRY, KISS, YAGNI, and SSOT principles when writing, reviewing, or refactoring code to ensure maintainability and quality.
 ---
 
 # Fundamental Coding Principles

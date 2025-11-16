@@ -14,6 +14,16 @@
                 "./skills/coding/fundamental-coding-principles"
             ],
             "category": "development"
+        },
+        {
+            "name": "prompt-skills",
+            "source": "./",
+            "strict": false,
+            "description": "Collection of prompt engineering skills",
+            "skills": [
+                "./skills/prompt/best-practices-for-prompt-engineering"
+            ],
+            "category": "productivity"
         }
     ]
 }
